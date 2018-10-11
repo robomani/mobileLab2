@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratory 2</string>
+    <string name="lbl_defaultText">Hello World</string>
+    <string name="lbl_namedText">Hello </string>
+    <string name="btn_Rename">Rename</string>
+    <string name="txt_Default">Name</string>
+</resources>

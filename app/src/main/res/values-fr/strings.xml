@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratoire 2</string>
+    <string name="lbl_defaultText">Bonjour tout le monde</string>
+    <string name="lbl_namedText">Bonjour </string>
+    <string name="btn_Rename">Renomer</string>
+    <string name="txt_Default">Nom</string>
+</resources>
